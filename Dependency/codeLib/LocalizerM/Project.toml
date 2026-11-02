@@ -1,0 +1,9 @@
+name = "LocalizerM"
+uuid = "96914f7b-859c-48f5-aed5-301ee6578280"
+authors = ["wuhj "]
+version = "0.1.0"
+
+[deps]
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+utilities = "2dae7b35-87be-414d-a7eb-1e21c63ac20e"

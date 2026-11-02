@@ -1,0 +1,13 @@
+name = "NaqpmsUtilities"
+uuid = "279ea3b4-3b5a-413e-a478-a9f5ce844a0f"
+authors = ["wuhj "]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GradDataM = "79c83f70-a963-43a8-afad-203511e909bb"
+Polyester = "f517fe37-dbe3-4b94-8317-1923a5111588"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"

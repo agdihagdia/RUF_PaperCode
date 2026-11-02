@@ -1,0 +1,9 @@
+name = "MeshDataM"
+uuid = "94773a5d-e0c7-4f93-bc2c-b73b6a201747"
+authors = ["wuhj "]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+NCDatasets = "85f8d34a-cbdd-5861-8df4-14fed0d494ab"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"

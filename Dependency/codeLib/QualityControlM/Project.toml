@@ -1,0 +1,15 @@
+name = "QualityControlM"
+uuid = "58e5a43e-cd36-48e5-9bb4-156c647268e7"
+authors = ["wuhuangjianCN <wuhuangjian@126.com>"]
+version = "0.1.0"
+
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+LocalizerM = "96914f7b-859c-48f5-aed5-301ee6578280"
+NaNStatistics = "b946abbf-3ea7-4610-9019-9858bfdeaf2d"
+Polyester = "f517fe37-dbe3-4b94-8317-1923a5111588"
+RunningMedianM = "196629e3-1baa-4165-94e7-cc6e8241b963"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"

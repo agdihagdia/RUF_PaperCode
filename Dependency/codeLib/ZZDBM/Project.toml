@@ -1,0 +1,13 @@
+name = "ZZDBM"
+uuid = "b1dd2b11-7e69-4718-a8d0-67817f6bd6b2"
+authors = ["zhikong "]
+version = "0.1.0"
+
+[deps]
+DBInterface = "a10d1c49-ce27-4219-8d33-6db1a4562965"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+MySQL = "39abe10b-433b-5dbd-92d4-e302a9df00cd"
+StaDataM = "b5b59191-8356-4723-967b-35855545c340"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
+utilities = "2dae7b35-87be-414d-a7eb-1e21c63ac20e"

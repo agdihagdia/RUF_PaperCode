@@ -1,0 +1,12 @@
+name = "MeshDataTool"
+uuid = "d7ade396-3c18-4b46-9821-c506ab1df08b"
+authors = ["wuhj "]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GradDataM = "79c83f70-a963-43a8-afad-203511e909bb"
+MeshDataM = "94773a5d-e0c7-4f93-bc2c-b73b6a201747"
+NaqpmsUtilities = "279ea3b4-3b5a-413e-a478-a9f5ce844a0f"
+StaDataTool = "83c9ffb5-70eb-4c3a-b4c4-1105ca5e69f4"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"

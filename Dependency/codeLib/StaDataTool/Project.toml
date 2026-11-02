@@ -1,0 +1,18 @@
+name = "StaDataTool"
+uuid = "83c9ffb5-70eb-4c3a-b4c4-1105ca5e69f4"
+authors = ["wuhj "]
+version = "0.1.0"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataBaseM = "2ac356d4-9141-4ef0-beb0-e09cc82b470a"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+GradDataM = "79c83f70-a963-43a8-afad-203511e909bb"
+Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
+NaqpmsUtilities = "279ea3b4-3b5a-413e-a478-a9f5ce844a0f"
+QualityControlM = "58e5a43e-cd36-48e5-9bb4-156c647268e7"
+StaDataM = "b5b59191-8356-4723-967b-35855545c340"
+TimeZones = "f269a46b-ccf7-5d73-abea-4c690281aa53"
+utilities = "2dae7b35-87be-414d-a7eb-1e21c63ac20e"
